@@ -20,7 +20,7 @@
                             <h6>Contact Us</h6>
                             <ul>
                                 <li>
-                                <p>Hotel for all desire <br> We inspire and reach millions of travelers</p></li>
+                                <p>Hotel for all desires <br> We inspire and reach millions of travelers</p></li>
                                 <li><i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(216) 71 274 300</li>
                                 <li><i class="fa fa-envelope"></i>&nbsp;&nbsp;&nbsp;<a href="mailto:res.gammarth@elmouradi.com">res.gammarth@elmouradi.com</a></li>
                                 <!-- <li>The coasts of Carthage, La Marsa, Tunis, BP 597-2070, Gammarth, Tunisia</li> -->
