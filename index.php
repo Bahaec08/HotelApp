@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
+    
 </head>
 
 <body>
@@ -32,53 +33,6 @@
     <div id="preloder">
         <div class="loader"></div>
     </div>
-
-    <!-- Offcanvas Menu Section Begin -->
-    <!-- <div class="offcanvas-menu-overlay"></div>
-    <div class="canvas-open">
-        <i class="icon_menu"></i>
-    </div>
-    <div class="offcanvas-menu-wrapper">
-        <div class="canvas-close">
-            <i class="icon_close"></i>
-        </div>
-        <div class="search-icon  search-switch">
-            <i class="icon_search"></i>
-        </div>
-        <div class="header-configure-area">
-            
-            <a href="#" class="bk-btn">Booking Now</a>
-        </div>
-        <nav class="mainmenu mobile-menu">
-            <ul>
-                <li class="active"><a href="./index.html">Home</a></li>
-                <li><a href="./rooms.html">Rooms</a></li>
-                <li><a href="./about-us.html">About Us</a></li>
-                <li><a href="./pages.html">Pages</a>
-                    <ul class="dropdown">
-                        <li><a href="./room-details.html">Room Details</a></li>
-                        <li><a href="#">Deluxe Room</a></li>
-                        <li><a href="#">Family Room</a></li>
-                        <li><a href="#">Premium Room</a></li>
-                    </ul>
-                </li>
-                <li><a href="./blog.html">News</a></li>
-                <li><a href="./contact.html">Contact</a></li>
-            </ul>
-        </nav> 
-        <div id="mobile-menu-wrap"></div>
-        <div class="top-social">
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <a href="#"><i class="fa fa-tripadvisor"></i></a>
-            <a href="#"><i class="fa fa-instagram"></i></a>
-        </div>
-        <ul class="top-widget">
-            <li><i class="fa fa-phone"></i> (216) 71 274 300</li>
-            <li><i class="fa fa-envelope"></i>res.gammarth@elmouradi.com</li>
-        </ul>
-    </div> -->
-    <!-- Offcanvas Menu Section End -->
 
     <?php include './header.php'; ?>
 
@@ -187,7 +141,7 @@
             <div class="row fixx">
                 <div class="col-lg-4 col-sm-6">
                     <div class="service-item">
-                        <i class="flaticon-036-parking"></i>
+                        <i class="flaticon-006-dumbbell"></i>
                         <!--<img src="https://cdn-icons-png.flaticon.com/128/1324/1324854.png" loading="lazy" alt="Dumbell " title="Dumbell " width="60" height="60">-->
                         <h4>Gym</h4>
                         <p>Maintain your wellness routine in our fully equipped, state-of-the-art fitness center, available exclusively for our guests</p>
@@ -196,7 +150,7 @@
 
                 <div class="col-lg-4 col-sm-6">
                     <div class="service-item">
-                        <i class="flaticon-036-parking"></i>
+                    <i class="flaticon-030-bathtub"></i>
                         <!--<img src="https://cdn-icons-png.flaticon.com/128/1324/1324854.png" loading="lazy" alt="Dumbell " title="Dumbell " width="60" height="60">-->
                         <h4>Thlasso & Spa</h4>
                         <p>Surrender to relaxation in our spa sanctuary, offering bespoke treatments that blend ancient traditions with modern therapies</p>
@@ -395,7 +349,7 @@
 
     <!-- Testimonial Section End -->
 
-    <!-- Blog Section Begin -->
+    <!-- Events Section Begin -->
     <section id="events" class="blog-section spad page-section">
         <div class="container">
             <div class="row">
@@ -432,7 +386,7 @@
             </div>
         </div>
     </section>
-    <!-- Blog Section End -->
+    <!-- Events Section End -->
 
 
     <!-- Testimonial Section Begin -->

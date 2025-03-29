@@ -69,6 +69,11 @@ p {
 	line-height: 26px;
 	margin: 0 0 15px 0;
 }
+.supertt {
+	border-radius: 50%;
+	border: 2px solid #ada09b;
+	width: 44px;
+}
 img {
 	max-width: 100%;
 }
@@ -896,14 +901,14 @@ ul, ol {
 }
 .footer-section .fa-social a {
 	display: inline-block;
-	height: 40px;
+	/* height: 40px;
 	width: 40px;
-	font-size: 16px;
+	font-size: 16px; */
 	line-height: 40px;
 	text-align: center;
 	color: #ffffff;
-	border: 1px solid #5A4D48;
-	border-radius: 50%;
+	/* border: 1px solid #5A4D48;
+	border-radius: 50%; */
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;

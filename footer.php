@@ -1,4 +1,6 @@
-<!-- Footer Section Begin -->
+
+
+    <!-- Footer Section Begin -->
 <footer class="footer-section">
         <div class="container">
             <div class="footer-text">
@@ -41,10 +43,10 @@
             </div>
             <div class="mediaaaa">
                 <div class="fa-social">
-                    <a href="https://www.facebook.com/MouradiGammarth" target="_blank"><i class="fa fa-facebook"></i></a>
-                    <a href="#"><i class="fa fa-twitter"></i></a>
-                    <a href="https://www.tripadvisor.com/Hotel_Review-g297942-d543064-Reviews-El_Mouradi_Gammarth-Gammarth_Tunis_Governorate.html" target="_blank"><i class="fa fa-tripadvisor"></i></a>
-                    <a href="https://www.instagram.com/elmouradigammarth/" target="_blank"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/MouradiGammarth" target="_blank"><div class="supertt"><img src="./img/facebook-f-brands.svg" alt="Description" width="23" height="23"></div></a>
+                    <a href="https://x.com/elmouradi"><div class="supertt"><img src="./img/x-twitter-brands.svg" alt="Description" width="23" height="23"></div></a>
+                    <a href="https://www.tripadvisor.com/Hotel_Review-g297942-d543064-Reviews-El_Mouradi_Gammarth-Gammarth_Tunis_Governorate.html" target="_blank"><div class="supertt"><i class="fa fa-tripadvisor"></i></div></a>
+                    <a href="https://www.instagram.com/elmouradigammarth/" target="_blank"><div class="supertt"><img src="./img/instagram-brands.svg" alt="Description" width="23" height="23"></div></a>
                     <!-- <a href="#"><i class="fa fa-youtube-play"></i></a> -->
                 </div>
             </div>
@@ -63,3 +65,4 @@
         </div>
     </div>
     <!-- Search model end -->
+

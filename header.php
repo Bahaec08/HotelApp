@@ -6,7 +6,7 @@
                     <div class="col-lg-2">
                         <div class="logo">
                             <a href="#home">
-                                <img src="img/logo.gif" alt="">
+                                <img src="./img/logo.gif" alt="">
                             </a>
                         </div>
                     </div>
