@@ -71,12 +71,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <h2>159$<span>/Pernight</span></h2>
+                            <h2>159TD<span>/Pernight</span></h2>
                             <table>
                                 <tbody>
                                     <tr>
                                         <td class="r-o">Size:</td>
-                                        <td>30 ft</td>
+                                        <td>30 m²</td>
                                     </tr>
                                     <tr>
                                         <td class="r-o">Capacity:</td>
@@ -92,7 +92,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <p class="f-para">This luxurious accommodation measures 30 feet in size and 
+                            <p class="f-para">This luxurious accommodation measures 30 meeter in size and 
                                 can comfortably accommodate up to three people. It features a spacious 
                                 king-sized bed for a restful night's sleep. Guests can enjoy a range of 
                                 amenities, including Wi-Fi, television, a private bathroom, and more, 

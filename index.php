@@ -111,6 +111,7 @@
                             <div class="select-option">
                                 <label for="guest">Guests:</label>
                                 <select id="guest">
+                                    <option value="1">1 Adult</option>
                                     <option value="2">2 Adults</option>
                                     <option value="3">3 Adults</option>
                                 </select>
@@ -152,7 +153,7 @@
                             top-tier service, tailored experiences (wellness, adventure, business), and authentic
                             local charm. Loyalty isn’t assumed; it’s earned through Tunisia’s beauty, safety, 
                             and warm traditions.</p>
-                        <a href="#" class="primary-btn about-btn">Read More</a>
+                        <a href="#" class="primary-btn about-btn">Explore now</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -266,12 +267,12 @@
                         <div class="hp-room-item set-bg" data-setbg="img/room/room-b1.jpg">
                             <div class="hr-text">
                                 <h3>Stander Room</h3>
-                                <h2>199$<span>/Pernight</span></h2>
+                                <h2>199TD<span>/Pernight</span></h2>
                                 <table>
                                     <tbody>
                                         <tr>
                                             <td class="r-o">Size:</td>
-                                            <td>30 ft</td>
+                                            <td>30 m²</td>
                                         </tr>
                                         <tr>
                                             <td class="r-o">Capacity:</td>
@@ -287,8 +288,8 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <a href="./pages/Standard.php" class="primary-btn" hx-get="./pages/Standard.php" hx-target="#content-container">More Details</a>
-                                <!-- <a href="./pages/Standard.php" class="primary-btn">More Details</a> -->
+                                <!-- <a href="./pages/Standard.php" class="primary-btn" hx-get="./pages/Standard.php" hx-target="#content-container">More Details</a> -->
+                                <a href="./pages/Standard.php" target="_blank" class="primary-btn">More Details</a>
                             </div>
                         </div>
                     </div>
@@ -296,12 +297,12 @@
                         <div class="hp-room-item set-bg" data-setbg="img/room/room-b4.jpg">
                             <div class="hr-text">
                                 <h3>Business  Room</h3>
-                                <h2>299$<span>/Pernight</span></h2>
+                                <h2>299TD<span>/Pernight</span></h2>
                                 <table>
                                     <tbody>
                                         <tr>
                                             <td class="r-o">Size:</td>
-                                            <td>30 ft</td>
+                                            <td>30 m²</td>
                                         </tr>
                                         <tr>
                                             <td class="r-o">Capacity:</td>
@@ -317,8 +318,8 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <a href="./pages/Business.php" class="primary-btn" hx-get="./pages/Business.php" hx-target="#content-container">More Details</a>
-                                <!-- <a href="#" class="primary-btn">More Details</a> -->
+                                <!-- <a href="./pages/Business.php" class="primary-btn" hx-get="./pages/Business.php" hx-target="#content-container">More Details</a> -->
+                                <a href="./pages/Business.php" target="_blank" class="primary-btn">More Details</a>
                             </div>
                         </div>
                     </div>
@@ -326,12 +327,12 @@
                         <div class="hp-room-item set-bg" data-setbg="img/room/room-b2.jpg">
                             <div class="hr-text">
                                 <h3>Superior Room</h3>
-                                <h2>159$<span>/Pernight</span></h2>
+                                <h2>159TD<span>/Pernight</span></h2>
                                 <table>
                                     <tbody>
                                         <tr>
                                             <td class="r-o">Size:</td>
-                                            <td>30 ft</td>
+                                            <td>30 m²</td>
                                         </tr>
                                         <tr>
                                             <td class="r-o">Capacity:</td>
@@ -347,8 +348,8 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <a href="./pages/Superior.php" class="primary-btn" hx-get="./pages/Superior.php" hx-target="#content-container">More Details</a>
-                                <!-- <a href="#" class="primary-btn">More Details</a> -->
+                                <!-- <a href="./pages/Superior.php" class="primary-btn" hx-get="./pages/Superior.php" hx-target="#content-container">More Details</a> -->
+                                <a href="./pages/Superior.php" target="_blank" class="primary-btn">More Details</a>
                             </div>
                         </div>
                     </div>
@@ -358,12 +359,12 @@
                         <div class="hp-room-item set-bg" data-setbg="img/room/room-b3.jpg">
                             <div class="hr-text">
                                 <h3>Executive Suite</h3>
-                                <h2>198$<span>/Pernight</span></h2>
+                                <h2>198TD<span>/Pernight</span></h2>
                                 <table>
                                     <tbody>
                                         <tr>
                                             <td class="r-o">Size:</td>
-                                            <td>30 ft</td>
+                                            <td>30 m²</td>
                                         </tr>
                                         <tr>
                                             <td class="r-o">Capacity:</td>
@@ -379,8 +380,8 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <a href="./pages/Suite.php" class="primary-btn" hx-get="./pages/Suite.php" hx-target="#content-container">More Details</a>
-                                <!-- <a href="#" class="primary-btn">More Details</a> -->
+                                <!-- <a href="./pages/Suite.php" class="primary-btn" hx-get="./pages/Suite.php" hx-target="#content-container">More Details</a> -->
+                                <a href="./pages/Suite.php" target="_blank" class="primary-btn">More Details</a>
                             </div>
                         </div>
                     </div>
@@ -413,18 +414,18 @@
                 <div class="col-lg-6">
                     <div class="blog-item set-bg" data-setbg="img/blog/blog-1.jpg">
                         <div class="bi-text">
-                            <span class="b-tag">Travel Trip</span>
-                            <h4><a href="#">Tremblant In Canada</a></h4>
-                            <div class="b-time"><i class="icon_clock_alt"></i> 15th April, 2019</div>
+                            <span class="b-tag">Order now</span>
+                            <!-- <h4><a href="#">Tremblant In Canada</a></h4> -->
+                            <!-- <div class="b-time"><i class="icon_clock_alt"></i> 15th April, 2019</div> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="blog-item set-bg" data-setbg="img/blog/blog-2.jpg">
                         <div class="bi-text">
-                            <span class="b-tag">Camping</span>
-                            <h4><a href="#">Choosing A Static Caravan</a></h4>
-                            <div class="b-time"><i class="icon_clock_alt"></i> 15th April, 2019</div>
+                            <span class="b-tag">Order now</span>
+                            <!-- <h4><a href="#">Choosing A Static Caravan</a></h4> -->
+                            <!-- <div class="b-time"><i class="icon_clock_alt"></i> 15th April, 2019</div> -->
                         </div>
                     </div>
                 </div>
