@@ -1,6 +1,4 @@
-
-
-    <!-- Footer Section Begin -->
+<!-- Footer Section Begin -->
 <footer class="footer-section">
         <div class="container">
             <div class="footer-text">
@@ -55,5 +53,5 @@
     </footer>
     <!-- Footer Section End -->
 
-   
+  
 

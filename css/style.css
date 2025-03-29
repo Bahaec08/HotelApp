@@ -392,6 +392,7 @@ ul, ol {
 .menu-item {
 	position: relative;
 	z-index: 9;
+	background: #f9f9f9;
 }
 .menu-item .logo {
 	padding: 25px 0;
